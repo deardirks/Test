@@ -6,7 +6,8 @@ JavaScript诞生于1995 年，当时主要用于**简单的数据验证**。
 它既**简单**（入门快），又**复杂**（学得越多，越觉得学得还不够多）
 
 - [1.1 JavaScript简史](#JavaScript简史)
-- [1.2.2 文档对象模型（DOM）](#1.2.2 文档对象模型（DOM）)
+- [1.2.2 文档对象模型（DOM）](#1.2.2文档对象模型（DOM）)
+- [1.3 JavaScript版本](#1.3)
 
 ## 1.1 JavaScript简史
 1995年，Netscape 公司为了服务其Netscape Navigator 2浏览器，开发了名为**LiveScript** 的脚本语言。
@@ -31,7 +32,7 @@ ECMAScript：提供核心语言功能。
 
 ECMA-262第3 版标志着ECMAScript 成为了一门真正的编程语言。
 
-### 1.2.2 文档对象模型（DOM）
+### 1.2.2文档对象模型（DOM）
 文档对象模型（**DOM**），全称 `Document Object Model`，是针对XML 但经过扩展用于HTML 的应用程序编程接口（API，Application Programming Interface）。
 
 DOM把整个页面映射为一个多层节点结构。
